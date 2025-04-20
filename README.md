@@ -10,7 +10,5 @@ Share information they know about an existing case
 View a searchable list of reported missing persons
 Optional anonymous submissions
 👮 Police Portal
-Secure login for police officials
 Access, verify, and manage missing persons reports
-Mark cases as resolved or under investigation
-Communicate with users for leads or clarifications
+Mark cases as resolved 
